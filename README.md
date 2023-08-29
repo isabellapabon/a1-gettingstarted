@@ -1,9 +1,4 @@
 
-## Option 2 - Fork repo and import to Glitch, edit on Glitch, and then export back to GitHub
-
-Most of these steps are the same as option 1, except that you being by creating a new project Glitch using this repo as a staring point (just choose New Project > Import from GitHub for this and then paste in the link to your repo). At the end, you can export your Glitch project to GitHub by [following these instructions](https://www.youtube.com/watch?time_continue=77&v=aWJFbtrgW4E&feature=emb_logo). _Note that the location of the projecct export feature in Glitch has moved from what they show in this video._ It's now located in Tools > Import and Export (tools is located in the bottom left of the Glitch editor).
-
-
 Isabella Pabon
 https://a1-isabellapabon.glitch.me/
 
